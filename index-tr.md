@@ -21,7 +21,7 @@ Bu kayıt, şunlara sebep olacaktır:
 
 ## Bu, haklarınız için ne anlama gelir
 
-➤ **Bir tüketici** olarak siz, Android cihazınızı Google'ın Android için seçtiğiniz her türlü yazılımı çalıştırabileceğiniz açık bir bilgisayar platformu olduğu vaadine inananarak satın aldınız. Bunun yerine, Google gelecek seneden itibaren karşılıklı rıza olmadan işletim sisteminize bu hakkı geri alınamaz bir şekilde engelleyen bir güncelleme kuracak ve bu sizi, hangi yazılıma güvenebileceğinize izin verilmesi mevzusunda onların kararına tabi bırakacaktır.
+➤ **Bir tüketici** olarak siz, Android cihazınızı Google'ın Android için seçtiğiniz her türlü yazılımı çalıştırabileceğiniz açık bir bilgisayar platformu olduğu vaadine inanarak satın aldınız. Bunun yerine, Google gelecek seneden itibaren karşılıklı rıza olmadan işletim sisteminize bu hakkı geri alınamaz bir şekilde engelleyen bir güncelleme kuracak ve bu sizi, hangi yazılıma güvenebileceğinize izin verilmesi mevzusunda onların kararına tabi bırakacaktır.
 
 ➤ **Bir geliştirici** olarak siz, önceden Google'ın onayını almadan artık uygulama geliştirip arkadaşlarınız, aileniz ve topluluk ile paylaşamayacaksınız. Android'in vaadi — ve kendisini iPhone'dan ayırmak için kullandığı pazarlama avantajı — daima onun "açık" oluşuydu. Ancak Google açıkça düzenleme kontrolü beraber Android ekosistemi üzerinde yeteri kadar kontrol elde ettiğini düşünüyor, ki bu ilkeyi artık sonuçlarına katlanmak zorunda kalmadan bir kenara atmayı göze alıyor.
 
@@ -45,20 +45,20 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 
 #### Avrupa Birliği
 - E-posta: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
-- Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
-- Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
-- Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [EXPIRED]
+- DMA ile GDPR aradındaki AB etkileşimine dair geri bildirim gönderin: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) 4 aralık tarihine dek.
+- Şu kuruma şikayette bulunun: [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
+- ~~Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en) [SÜRESİ GEÇMİŞTİR]~~
 
 #### Amerika Birleşik Devletleri
-- E-posta: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)
-- E-posta: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)
+- ~~E-posta: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org) [DEVRE DIŞI]~~
+- ~~E-posta: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)[DEVRE DIŞI]~~
 - Şu kurumlara şikayette bulunun: [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) and [US Federal Trade Commission: Antitrust Complaint](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 
 #### Birleşik Krallık
 - E-posta: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom&cc=uk@keepandroidopen.org)
 - Şu kuruma şikatte bulunun: [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
 
-#### Brezilyha
+#### Brezilya
 - E-posta: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil&cc=brazil@keepandroidopen.org)
 - Procon ile irtibata geçin (eyaletinize göre değişir) ve [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
 - _Not: Brezilya'nın, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
@@ -124,18 +124,47 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 - Teşkilatınızın imzasını şu taslağa ekleyin: [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) Bunun için[signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org)  adresine isminiz, unvanınız ve bağlı olduğunuz kurumun adı ile bir mesaj gönderin.
 
 ### Bu Dilekçeleri İmzalayın
-- [Petition to UK Parliament](https://petition.parliament.uk/petitions/744446/sponsors/new?token=iefxfsni3sbrd4S3AWEU)
-- [change.org petition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Şu change.org dilekçesini imazalayın](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 ### Bu Tüketici/Sayısal Hakları Koruma Gruplarıyla İrtibata Geçin
 - [Euroconsumers](https://www.euroconsumers.org/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
+- [Digital Rights Ireland](https://www.digitalrights.ie/)
+- [Digital Freedom and Rights Association (Sweden)](https://www.dfri.se/)
+- [European Digital Rights](https://edri.org/)
+- [La Quadrature du Net (France)](https://www.laquadrature.net/)
+- [April (France)](https://www.april.org/en)
+- [Free Software Foundation](https://www.fsf.org/)
+- [Free Software Foundation Europe](https://fsfe.org/)
+- [Free Software Movement India](https://www.fsmi.in/)
+- [IT-Political Association of Denmark](https://www.itpol.dk/)
+- [Digital Rights Watch (Australia)](https://digitalrightswatch.org.au/)
+- [Open Rights Group (UK)](https://www.openrightsgroup.org/)
+- [Bits of Freedom (Netherlands)](https://www.bitsoffreedom.nl/)
+- [Swecha Andhra Pradesh](https://www.swechaap.org/)
+
+#### Bu Projeleri Destekleyin
+Bu projeler, mobil donanım alanında çok ihtiyaç duyulan rekabeti sağlamak için çalışmaktadırlar.
+- [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
+- [Graphene OS](https://grapheneos.org/)
+- [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
+- [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
+- [Shiftphone](https://www.shift.eco/en/)
+- [PureOS by Purism](https://pureos.net/)
+- [PostmarketOS](https://postmarketos.org/)
+- [Replicant](https://www.replicant.us/)
+- [Ubuntu Touch by the UBPorts Community](https://www.ubuntu-touch.io/)
+- [Fairphone](https://www.fairphone.com/)
+- [Sailfish OS](https://sailfishos.org/)
+- [Mobian](https://mobian-project.org/)
+- [LineageOS](https://lineageos.org/)
+- [/e/OS](https://e.foundation/e-os/)
 
 ## Diğerleri
 - Android cihazlarınıza [F-Droid kurun](https://f-droid.org). Ne kadar çok kişi alternatif marketler kullanırsa, onları devreden çıkarmak o kadar zor olacaktır.
-- Google'a doğrudan geri bildirimde bulunun, onların [Android geliştirici denetleme gereksinizmleri anketini kullanarak](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
-- Sesinizin sosyal medya ve blog makaleleriyle duyulmasını sağlayın, ve https://keepandroidopen.org sitesine bağlantı koyun.
-- Yanıltıcı mesajlarla mücadele edin: topluluk forumlarında ve sosyal medyada bu şartları destekleyen şüpheli mesajlara rastladığınızda (“İyi, tamam da…”), onları sorgulayın ve utangaç olmayın.
+- Google'a doğrudan geri bildirimde bulunun, onların [Android geliştirici denetleme gereksinimleri anketini kullanarak](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
+- Sesinizin sosyal medya ve blog makaleleriyle duyulmasını sağlayın ve https://keepandroidopen.org sitesine bağlantı koyun.
+- Yanıltıcı mesajlarla mücadele edin: topluluk forumlarında ve sosyal medyada bu şartları destekleyen şüpheli mesajlara rastladığınızda (“İyi hoş, tamam da…”), onları sorgulayın ve utangaç olmayın.
 - Bu projeye [bu sayfayı faydalı bilgilerle düzenleyerek](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) yardımcı olun.
 
 ## Referanslar
@@ -220,24 +249,24 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; padding-top: 2em; margin: 0 auto;">
         <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
             <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 16px;">
-                Contact
+                İrtibat
             </h4>
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 5px;">E-posta: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
             </ul>
             <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">Problems: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Report Site Issues</a></li>
+                <li style="margin-bottom: 5px;">Sorunlar: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Site Sorunlarını Raporlayın</a></li>
             </ul>
         </div>
         <div style="flex: 2; min-width: 300px; margin-bottom: 20px;">
             <p style="padding: 0px;">
-                <strong>Privacy Statement:</strong> This site uses no cookies and performs no user tracking or logging.
+                <strong>Mahremiyet Beyanı:</strong> Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez.
             </p>
             <p style="padding: 0px;">
-                <strong>Disclaimer:</strong> This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes.
+                <strong>Disclaimer:</strong> Bu site kâr amacı gütmez ve topluluk tarafından yönetilen bir girişimdir. Sadece bigilendirme ve eğitim amaçları bulunur.
             </p>
             <p style="padding: 0px;">
-                <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                <strong>Telif Hakkı:</strong> Yok. Bu çalışma kamu malıdır: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </p>
         </div>
         <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
