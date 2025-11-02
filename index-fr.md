@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Keep Android Open"
-permalink: /
+permalink: /fr/
 description: "Plaidoyer pour Android en tant que plateforme libre et ouverte permettant à tous de développer des applications."
 ---
 
@@ -12,11 +12,11 @@ il ne sera plus possible de développer des applications pour la plateforme Andr
 sans s'être préalablement enregistré auprès de Google.
 Cet enregistrement impliquera:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paiement de frais à Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Acceptation des conditions d'utilisation de Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Fourniture d'une pièce d'identité officielle</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Téléchargement de la preuve de la clé de signature privée du développeur</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Liste de tous les identifiants d'application actuels et futurs</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Paiement de frais à Google</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Acceptation des conditions d'utilisation de Google</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Fourniture d'une pièce d'identité officielle</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Téléchargement de la preuve de la clé de signature privée du développeur</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Liste de tous les identifiants d'application actuels et futurs</div>
 
 
 ## Ce que cela signifie pour vos droits
@@ -294,16 +294,12 @@ Ces projets s'efforcent de créer une concurrence indispensable sur le marché d
                 <strong>Confidentialité :</strong> Ce site n’utilise aucun cookie et n’effectue aucun suivi ni enregistrement des utilisateurs.
             </p>
             <p style="padding: 0px;">
-                <strong>Droits d'auteur :</strong> Aucun. Cette œuvre est sous licence <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="Logo CC0" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="Logo CC0 zero" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                <strong>Droits d'auteur :</strong> Aucun. Cette œuvre est sous licence <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="Logo CC0" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="Logo CC0 zero" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </p>
         </div>
         <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <div class="outerlync" style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                font-size: 20px;
-            ">
-                <img class="innerlync" alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
+            <div class="outerlync" style="margin-top: 0; margin-bottom: 10px; font-size: 20px;">
+                <img class="innerlync" alt="Altered Deal Logo" src="/img/altered-deal.png" width="150px" />
             </div>
         </div>
     </div>

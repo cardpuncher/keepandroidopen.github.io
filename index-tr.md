@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Android Açık Kalsın"
-permalink: /
+permalink: /tr/
 description: "Android'in herkesin üzerinde uygulama geliştirebileceği özgür, açık bir platform olmasını savunuyoruz."
 ---
 
@@ -12,11 +12,11 @@ ile merkezi kayıt yaptırılmadan Android platformu için uygulama
 geliştirmenin mümkün olmayacağını beyan etmiştir.
 Bu kayıt, şunlara sebep olacaktır:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Google'a bir ücret ödenmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Google'ın Şart ve Koşullarına onay verilmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Hükümet tasdikli kimlik belgesi sağlanmasına</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Geliştiricinin kişisel özel imzalama anahtarının kanıtının yüklenmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Tüm güncel ve gelecek uygulama kimliklerinin listelenmesine</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Google'a bir ücret ödenmesine</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Google'ın Şart ve Koşullarına onay verilmesine</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Hükümet tasdikli kimlik belgesi sağlanmasına</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Geliştiricinin kişisel özel imzalama anahtarının kanıtının yüklenmesine</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Tüm güncel ve gelecek uygulama kimliklerinin listelenmesine</div>
 
 
 ## Bu, haklarınız için ne anlama gelir
@@ -216,108 +216,39 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 ### Çeşitli
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
-<footer style="
-    padding: 0px;
-    margin: 0px;
-    font-size: 14px;
-    line-height: 1.6;
-    width: 100%;
-    border-top: 1px solid #dee2e6;
-">
-
-    <div style="
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        max-width: 1200px;
-        padding-top: 2em;
-        margin: 0 auto;
-    ">
-
-        <div style="
-            flex: 1;
-            min-width: 200px;
-            margin-bottom: 20px;
-        ">
-            <h4 style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                font-size: 16px;
-            ">
+<footer style="padding: 0px; margin: 0px; font-size: 14px; line-height: 1.6; width: 100%; border-top: 1px solid #dee2e6;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; padding-top: 2em; margin: 0 auto;">
+        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
+            <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 16px;">
                 Contact
             </h4>
-            <ul style="
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            ">
+            <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 5px;">E-posta: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
             </ul>
-            <ul style="
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            ">
+            <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 5px;">Problems: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Report Site Issues</a></li>
             </ul>
         </div>
-
-        <div style="
-            flex: 2; /* Takes up more space for text */
-            min-width: 300px;
-            margin-bottom: 20px;
-        ">
+        <div style="flex: 2; min-width: 300px; margin-bottom: 20px;">
             <p style="padding: 0px;">
                 <strong>Privacy Statement:</strong> This site uses no cookies and performs no user tracking or logging.
             </p>
-
             <p style="padding: 0px;">
                 <strong>Disclaimer:</strong> This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes.
             </p>
             <p style="padding: 0px;">
-                <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </p>
         </div>
-
-        <div style="
-            flex: 1;
-            min-width: 200px; /* Ensures space on smaller screens */
-            margin-bottom: 20px;
-        ">
-            <h3 style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                font-size: 20px;
-            ">
-                <img alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
-            </h3>
+        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
+            <div class="outerlync" style="margin-top: 0; margin-bottom: 10px; font-size: 20px;">
+                <img class="innerlync" alt="Altered Deal Logo" src="/img/altered-deal.png" width="150px" />
+            </div>
         </div>
-
     </div>
 </footer>
 
 <style>
-
-DISABLEDbody::before {
-    content: '';
-    position: fixed; /* Makes the background stay put while content scrolls */
-    top: 15%;
-    left: 15%;
-    width: 70%;
-    height: 70%;
-    z-index: -1; /* Puts the background behind all other content */
-
-    background-image: url('altered-deal.png');
-    background-size: min(70vw, 70vh);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: luminosity, overlay;
-
-    /*filter: grayscale(100%);*/
-    /*filter: saturate(0);*/
-    filter: opacity(10%) grayscale(100%);
-}
-
 h1 {
     font-size: 46px;
     font-weight: 600;
@@ -341,10 +272,24 @@ h1::before, h1::after {
     margin-right: auto;
 }
 
-
 html, body: {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+.outerlync {
+  cursor: not-allowed;
+  display: inline-block;
+  background: transparent;
+}
+
+.innerlync {
+  transform-style: preserve-3d;
+  transition: ease-out 0.6s;
+}
+
+.outerlync:hover .innerlync {
+  transition: ease-in-out 2.5s;
+  transform: rotate(1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
 </style>
 

@@ -12,11 +12,11 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/money_bag.svg" /> Paying a fee to Google</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/id_card.svg" /> Providing government identification</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="img/receipt.svg" /> Listing all current and future application identifiers</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Paying a fee to Google</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Providing government identification</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Listing all current and future application identifiers</div>
 
 
 ## What this means for your rights
@@ -268,16 +268,12 @@ These projects are working to provide much-needed competition in the mobile hard
                 <strong>Privacy:</strong> This site uses no cookies and performs no user tracking or logging.
             </p>
             <p style="padding: 0px;">
-                <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </p>
         </div>
         <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <div class="outerlync" style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                font-size: 20px;
-            ">
-                <img class="innerlync" alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
+            <div class="outerlync" style="margin-top: 0; margin-bottom: 10px; font-size: 20px;">
+                <img class="innerlync" alt="Altered Deal Logo" src="/img/altered-deal.png" width="150px" />
             </div>
         </div>
     </div>
