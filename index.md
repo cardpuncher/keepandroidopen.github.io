@@ -167,6 +167,8 @@ These projects are working to provide much-needed competition in the mobile hard
 - [Fairphone](https://www.fairphone.com/)
 - [Sailfish OS](https://sailfishos.org/)
 - [Mobian](https://mobian-project.org/)
+- [LineageOS](https://lineageos.org/)
+- [/e/OS](https://e.foundation/e-os/)
 
 ## References
 
