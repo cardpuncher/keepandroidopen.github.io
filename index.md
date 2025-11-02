@@ -5,9 +5,6 @@ permalink: /
 description: "Advocating for Android as a free, open platform for everyone to build apps on."
 ---
 
-* This will become a table of contents (this text will be scrapped).
-{:toc}
-
 # Keep Android Open
 
 In August 2025, Google announced that starting next year,
@@ -115,7 +112,6 @@ Complaints are especially impactful when they are authored by a citizen of that 
 #### Philippines
 - Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
-
 ### Developers: Resist and refuse
 
 If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
@@ -124,21 +120,15 @@ If you are an app developer, _**do not sign up**_ for the early access program, 
 
 Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.
 
-
 ### Everyone: Make your voice heard
 
 - [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
-
-#### Sign the open letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
-
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - Make your voice heard on social media and with blog posts, and link to https://keepandroidopen.org
 - Combat astroturfing: when you encounter suspect posts on community forums and social media in support of the policy (“Well, actually…”), challenge them and do not be shy.
 - Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
-
-#### Sign These Petitions
-- [change.org petition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
+- [Sign this change.org petition](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 #### Contact These Consumer/Digital Rights Groups
 - [Euroconsumers](https://www.euroconsumers.org/)
@@ -157,8 +147,7 @@ Discourage fellow app developers and organizations from signing up to the progra
 - [Bits of Freedom (Netherlands)](https://www.bitsoffreedom.nl/)
 - [Swecha Andhra Pradesh](https://www.swechaap.org/)
 
-
-### Support These Projects
+#### Support These Projects
 These projects are working to provide much-needed competition in the mobile hardware space.
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
 - [Graphene OS](https://grapheneos.org/)
