@@ -7,7 +7,7 @@ description: "Plaidoyer pour Android en tant que plateforme libre et ouverte per
 
 # Keep Android Open
 
-En août 2025, Google a annoncé que, dès l'année suivante,
+En août 2025, Google a [annoncé](https://developer.android.com/developer-verification) que, dès l'année suivante,
 il ne sera plus possible de développer des applications pour la plateforme Android
 sans s'être préalablement enregistré auprès de Google.
 Cet enregistrement impliquera:
