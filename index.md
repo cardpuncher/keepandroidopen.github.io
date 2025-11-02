@@ -5,6 +5,9 @@ permalink: /
 description: "Advocating for Android as a free, open platform for everyone to build apps on."
 ---
 
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
 # Keep Android Open
 
 In August 2025, Google announced that starting next year,
@@ -29,15 +32,7 @@ This registration will involve:
 
 ## How you can help
 
-### Resist and refuse
-
-If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
-
-—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
-
-Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.
-
-### Contact national regulators
+### Consumers: Contact national regulators
 
 Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition.
 
@@ -120,15 +115,32 @@ Complaints are especially impactful when they are authored by a citizen of that 
 #### Philippines
 - Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
-## Make your voice heard
 
-### Sign the open letter
+### Developers: Resist and refuse
+
+If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
+
+—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
+
+Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.
+
+
+### Everyone: Make your voice heard
+
+- [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
+
+#### Sign the open letter
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 
-### Sign These Petitions
+- Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
+- Make your voice heard on social media and with blog posts, and link to https://keepandroidopen.org
+- Combat astroturfing: when you encounter suspect posts on community forums and social media in support of the policy (“Well, actually…”), challenge them and do not be shy.
+- Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
+
+#### Sign These Petitions
 - [change.org petition with most signatures](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
-### Contact These Consumer/Digital Rights Groups
+#### Contact These Consumer/Digital Rights Groups
 - [Euroconsumers](https://www.euroconsumers.org/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
 - [Digital Rights Ireland](https://www.digitalrights.ie/)
@@ -145,13 +157,6 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - [Bits of Freedom (Netherlands)](https://www.bitsoffreedom.nl/)
 - [Swecha Andhra Pradesh](https://www.swechaap.org/)
 
-
-## Other
-- [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
-- Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
-- Make your voice heard on social media and with blog posts, and link to https://keepandroidopen.org
-- Combat astroturfing: when you encounter suspect posts on community forums and social media in support of the policy (“Well, actually…”), challenge them and do not be shy.
-- Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
 
 ### Support These Projects
 These projects are working to provide much-needed competition in the mobile hardware space.
@@ -253,57 +258,20 @@ These projects are working to provide much-needed competition in the mobile hard
 ### Miscellaneous
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
-<footer style="
-    padding: 0px;
-    margin: 0px;
-    font-size: 14px;
-    line-height: 1.6;
-    width: 100%;
-    border-top: 1px solid #dee2e6;
-">
-
-    <div style="
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        max-width: 1200px;
-        padding-top: 2em;
-        margin: 0 auto;
-    ">
-
-        <div style="
-            flex: 1;
-            min-width: 200px;
-            margin-bottom: 20px;
-        ">
-            <h4 style="
-                margin-top: 0;
-                margin-bottom: 10px;
-                font-size: 16px;
-            ">
+<footer style="padding: 0px; margin: 0px; font-size: 14px; line-height: 1.6; width: 100%; border-top: 1px solid #dee2e6;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; padding-top: 2em; margin: 0 auto;">
+        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
+            <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 16px; ">
                 Contact
             </h4>
-            <ul style="
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            ">
+            <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
             </ul>
-            <ul style="
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            ">
+            <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 5px;">Problems: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Report Site Issues</a></li>
             </ul>
         </div>
-
-        <div style="
-            flex: 2; /* Takes up more space for text */
-            min-width: 300px;
-            margin-bottom: 20px;
-        ">
+        <div style="flex: 2; min-width: 300px; margin-bottom: 20px;">
             <p style="padding: 0px;">
                 <strong>Disclaimer:</strong> This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes.
             </p>
@@ -314,12 +282,7 @@ These projects are working to provide much-needed competition in the mobile hard
                 <strong>Copyright:</strong> None. This work is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
             </p>
         </div>
-
-        <div style="
-            flex: 1;
-            min-width: 200px; /* Ensures space on smaller screens */
-            margin-bottom: 20px;
-        ">
+        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
             <div class="outerlync" style="
                 margin-top: 0;
                 margin-bottom: 10px;
@@ -328,7 +291,6 @@ These projects are working to provide much-needed competition in the mobile hard
                 <img class="innerlync" alt="Altered Deal Logo" src="altered-deal.png" width="150px" />
             </div>
         </div>
-
     </div>
 </footer>
 
